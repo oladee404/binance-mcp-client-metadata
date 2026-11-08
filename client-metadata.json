@@ -1,1 +1,14 @@
-
+{
+  "client_id": "https://oladee404.github.io/binance-mcp-client-metadata/client-metadata.json",
+  "client_name": "Locus Binance MCP Client",
+  "redirect_uris": [
+    "http://127.0.0.1:31821/"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
